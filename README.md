@@ -2,6 +2,10 @@
 
 A front-end web app built around the **GitHub REST API**, written in vanilla JavaScript and styled with **Tailwind CSS**. It shows a GitHub profile at a glance, lets you search any user's public repositories, and visualizes their language usage with interactive charts.
 
+![Repositories](screenshots/repos.png)
+
+![Insights](screenshots/insights.png)
+
 ## Features
 
 - **Profile sidebar** for the authenticated user: avatar, name, username, bio, followers, following, public repo count, and membership duration (via Moment.js)
